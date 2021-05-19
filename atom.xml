@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://dob.net</id>
+    <id>https://-.github.io</id>
     <title>Gridea</title>
-    <updated>2021-05-19T02:33:30.791Z</updated>
+    <updated>2021-05-19T02:35:54.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://dob.net"/>
-    <link rel="self" href="https://dob.net/atom.xml"/>
+    <link rel="alternate" href="https://-.github.io"/>
+    <link rel="self" href="https://-.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://dob.net/images/avatar.png</logo>
-    <icon>https://dob.net/favicon.ico</icon>
+    <logo>https://-.github.io/images/avatar.png</logo>
+    <icon>https://-.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[哈哈]]></title>
-        <id>https://dob.net/ha-ha/</id>
-        <link href="https://dob.net/ha-ha/">
+        <id>https://-.github.io/ha-ha/</id>
+        <link href="https://-.github.io/ha-ha/">
         </link>
         <updated>2021-05-19T01:32:52.000Z</updated>
         <content type="html"><![CDATA[<p>我又回来了</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://dob.net/hello-gridea/</id>
-        <link href="https://dob.net/hello-gridea/">
+        <id>https://-.github.io/hello-gridea/</id>
+        <link href="https://-.github.io/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
